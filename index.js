@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 const Sagiri = require("sagiri");
 
-const handler = new Sagiri("process.env.SAGIRI_TOKEN", { 
+const handler = new Sagiri(process.env.SAGIRI_TOKEN, { 
 numRes: 1});
 
 
