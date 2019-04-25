@@ -1,0 +1,15 @@
+{
+  "name": "sauceme",
+  "version": "1.0.0",
+  "description": "Discord bot to get the source of an image",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Spikan",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "sagiri": "^1.5.3"
+  }
+}
